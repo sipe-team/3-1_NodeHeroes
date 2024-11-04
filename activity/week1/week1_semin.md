@@ -3,7 +3,8 @@
 'NODE HEROES'의 앞으로의 활동을 미리 경험해보기 위해, 이번 주에는 간단한 npm 패키지 데모 버전을 제작 및 배포해보는 활동을 진행했습니다.
 학습 자료는 은비님께서 추천해 주신 [How To Create An NPM Package](https://www.totaltypescript.com/how-to-create-an-npm-package) 가이드를 참고했습니다.
 
-**Repository**: [npm-package-demo](https://github.com/SEMIN-97/npm-package-demo)
+- **Repository**: [npm-package-demo](https://github.com/SEMIN-97/npm-package-demo)
+- **Demo Package**: [npm-package-demo-semin](https://www.npmjs.com/package/npm-package-demo-semin)
 
 아래는 가이드를 바탕으로 추가로 공부한 내용을 정리한 것입니다.
 
