@@ -6,6 +6,8 @@ MarkLite (Markdown 변환) 패키지 제작 시작
 
 기본적인 기능을 우선적으로 구현한 후, 나중에 더 많은 기능을 추가할 계획입니다.
 
+➡️ [MarkLite Repository](https://github.com/SEMIN-97/MarkLite)
+
 ---
 
 ## 기본 기능 목록
